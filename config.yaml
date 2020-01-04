@@ -1,0 +1,13 @@
+cron: 0 0 */1 * * *
+qcloud:
+    secretId: 
+    secretKey: 
+    list:
+        -
+            domain: 
+            subDomain: 
+            type: AAAA
+        -
+            domain: 
+            subDomain: 
+            type: A

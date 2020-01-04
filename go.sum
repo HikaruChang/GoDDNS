@@ -1,0 +1,7 @@
+github.com/athurg/go-qcloud-cns-sdk v0.0.0-20180413090041-c5f8ec5d0c89 h1:2IpOeiFDsLartLkhchGzvas94mSmK1B4Ygy9nvnKDqA=
+github.com/athurg/go-qcloud-cns-sdk v0.0.0-20180413090041-c5f8ec5d0c89/go.mod h1:STmXEV3zRwBDoWUllPYuyI1H0Q9p1bfDtzIDGUOLPEg=
+github.com/robfig/cron v1.2.0 h1:ZjScXvvxeQ63Dbyxy76Fj3AT3Ut0aKsyd2/tl3DTMuQ=
+github.com/robfig/cron v1.2.0/go.mod h1:JGuDeoQd7Z6yL4zQhZ3OPEVHB7fL6Ka6skscFHfmt2k=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.0-20191120175047-4206685974f2 h1:XZx7nhd5GMaZpmDaEHFVafUZC7ya0fuo7cSJ3UCKYmM=
+gopkg.in/yaml.v3 v3.0.0-20191120175047-4206685974f2/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
